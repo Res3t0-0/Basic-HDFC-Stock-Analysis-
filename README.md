@@ -8,3 +8,6 @@
 
 ## PLotted the stock volatility
 <img width="1391" height="441" alt="image" src="https://github.com/user-attachments/assets/735d20af-559b-4d94-8233-5b80e55fe263" />
+
+## Overall Log return
+<img width="1390" height="409" alt="image" src="https://github.com/user-attachments/assets/78382c3a-3d94-4f66-b820-84029e7556c8" />
